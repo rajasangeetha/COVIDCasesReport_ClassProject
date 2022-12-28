@@ -9,6 +9,7 @@ Generate report to get maximum COVID cases for the input file time_series_covid1
 Pandas Project Part 2
 
 Part A.
+
 Section 1.
 a) Which state/territory had the highest numerical increase in confirmed cases over the summer months (June 1st through August 31th)
 b) Which state/territory had the highest percentage increase in confirmed cases over the same time period?
