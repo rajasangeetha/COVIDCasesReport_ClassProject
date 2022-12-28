@@ -17,6 +17,8 @@ d) Which County in NC had the highest percentage increase in confirmed cases ove
 Section 2.
 a) What proportion of cases nationally had occurred in NY State at the start of each month, from March 2020 to August 2020?
   Add graphics for each of the questions in Part 1 of the project. Consider carefully which type of graphic is best suited to show the answer. Also consider what accompanying data should be included. For instance, I might have asked you which state had the highest value for something, but the appropriate graphic should probably include a few other states to serve as comparison points.
+
+
 Part B.  
 Adding Graphics on Part A questions (by checking values of a few other states to serve as comparison points):
 The second part of the program performs two functions by combining Census (https://covid19.census.gov/#anchor-4 - They align very well with the data you used in Part 1) and COVID infection data.
